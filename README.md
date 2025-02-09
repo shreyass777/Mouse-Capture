@@ -1,1 +1,2 @@
 # Mouse-Capture
+This Python-based automation tool uses OCR to extract text from the screen and perform actions like Google/Bing search, translation, and clipboard automation. It supports image searches via Google Lens and Bing Visual Search and features a transparent overlay with hotkey controls. Built with OpenCV, PyTesseract, and Selenium, it enhances productivity through seamless text-based automation. 
